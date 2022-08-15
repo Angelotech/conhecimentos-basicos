@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(87, 87, 255, 0.768);
+    font:normal 15px arial;
+}
+header{
+    color:beige;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+section{
+    background: antiquewhite;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 5px 10px rgba(9, 9, 9, 0.689);
+    text-align:left;
+    text-size-adjust: ;
+
+}
+footer {
+    color: beige;
+    font:bolder 12px arial;
+    text-align: center;
+}
